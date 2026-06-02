@@ -1,6 +1,6 @@
 <div align="center">
 
-![NSMB+ Logo](NSMB+_logo.png)
+![NSMB+ Logo](logo.png)
 
 # NSMB+
 
