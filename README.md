@@ -32,9 +32,9 @@ NSMB+ is a passion project aimed at improving the base game experience through s
 
 | Script | Purpose |
 |--------|---------|
-| `nsmb.py` | Extracts all audio archives from any DS ROM |
+| `extract.py` | Extracts all audio archives from any DS ROM |
 | `convert.py` | Batch converts SWAR archives to WAV for listening |
-| `swap.py` | Patches audio, icon and title data directly into the ROM |
+| `swap.py` | Patches NSMB+ improvements into the ROM |
 
 ---
 
