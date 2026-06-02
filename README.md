@@ -49,15 +49,16 @@ NSMB+ is a passion project aimed at improving the base game experience through s
 
 ```bash
 pip3 install ndspy Pillow
-python3 swap.py your_rom.nds output.nds
+python3 swap.py your_rom.nds NSMB+.nds
 ```
 
-Then load `output.nds` in your emulator or flash it to a cartridge.
+Then load `NSMB+.nds` in your emulator or flash it to a cartridge.
 
 ---
 
 ## Planned Updates
 - [ ] Luigi-only voice lines triggered exclusively when Luigi is selected (requires ARM code patch)
+- [ ] No-clip glitch on World 6, Castle 2
 - [ ] Further quality of life improvements
 
 ---
